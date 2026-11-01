@@ -1,1 +1,1 @@
-Welcome to my page. 
+![MCY Logo](images/mcy_logo.png)
